@@ -1,0 +1,139 @@
+        /* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+        body {
+            padding-bottom: 0;
+            padding-right: 0;
+        }
+
+        @media screen and (max-width: 767px) {
+            body {
+                padding-top: 110px;
+            }
+        }
+
+        .profile {
+            background-color: #729ACC;
+        }
+
+        .jumbotron {
+            padding-top: 5%;
+            width: 100%;
+        }
+
+        .jumbotron h1,
+        p {
+            color: white;
+        }
+
+        .headshot {
+            padding-top: 5%;
+            height: auto;
+            width: 50%;
+        }
+
+        .projectTitle {
+            color: #729ACC;
+            padding-left: 2%;
+        }
+
+        .portfolioRow {
+            padding-left: 5%;
+            padding-top: 2%;
+            padding-bottom: 5%;
+        }
+
+        .ideaLogo {
+            height: auto;
+            width: 75%;
+        }
+
+        .hoochLogo {
+            height: auto;
+            width: 70%;
+        }
+
+        .droppletLogo {
+            height: auto;
+            width: 75%;
+        }
+
+        .contactMe {
+            background-color: #6D757F;
+        }
+
+        .needSpace {
+            text-align: center;
+            padding-bottom: 1%;
+        }
+
+        .needSpace h2 {
+            color: #ffffff;
+        }
+
+        .logos {
+            padding-left: 5%;
+        }
+
+        .twitterSpace {
+            padding-top: 5%;
+            padding-bottom: 5%;
+        }
+
+        .gmailSpace {
+            padding-top: 5%;
+            padding-bottom: 5%;
+        }
+
+        .linkedinSpace {
+            padding-top: 5%;
+            padding-bottom: 5%;
+        }
+
+        .mediumSpace {
+            padding-top: 5%;
+            padding-bottom: 5%;
+        }
+
+
+        .bottom {
+            background-color: #6D757F;
+            margin: 0;
+            text-align: right;
+        }
+
+        footer {
+            margin: 1%;
+        }
+        /* For First Project Page: Hooch*/
+
+        .hoochHTML {
+            padding-bottom: 20px;
+        }
+
+        .hoochWebpage {
+            background-color: #729ACC;
+        }
+
+        .hoochWebpage h2 {
+            color: white;
+        }
+        /* For Second Project Page: ideaClub */
+
+        .ideaMessage {
+            background-color: #729ACC;
+        }
+
+        .ideaClubHTML {
+            padding-bottom: 20px;
+        }
+        /* For Third Project Page: dropplet */
+
+        .droppletMessage {
+            background-color: #729ACC;
+        }
+
+        .droppletHTML {
+            padding-bottom: 20px;
+        }
